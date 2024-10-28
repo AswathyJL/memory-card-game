@@ -7,7 +7,7 @@
 
 body
 {
-    background-color: #87C4FF;
+    background-color: #72b3d3;
 }
 
 .wrapper
@@ -21,6 +21,12 @@ body
 }
 
 .wrapper h1
+{
+    color: #FFEED9;
+    font-size: 4rem;
+}
+
+.wrapper p
 {
     color: #FFEED9;
 }

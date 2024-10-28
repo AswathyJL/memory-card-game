@@ -36,8 +36,10 @@ function matchCards(img1,img2)
       matchedCard++
       if(matchedCard == 8)
       {
+         matchQuote.innerText = `All cards are matched`
         setTimeout(()=>
       {
+         matchQuote.innerText = ""
          return shuffleCard();
       },1000)
       }
