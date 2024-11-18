@@ -1,4 +1,4 @@
-##Memory Card Game 
+<h1>Memory Card Game </h1>
 
 A simple memory card game using HTML, Bootstrap and Javascript
 
